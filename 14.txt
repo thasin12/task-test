@@ -41,7 +41,7 @@ float riverLineBoost = 0.0f;
 // Animation
 float animationSpeed = 0.015f;
 
-// Scene
+// Scene 1
 int currentScene = 1;
 
 
